@@ -1,5 +1,4 @@
 Project done in completion of the Sorting Algorithm Project.
 
-##COLLABORATORS
+##LONE CREATOR
 Onyeabo Chiemeka
-Bradley Njoroge
